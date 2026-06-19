@@ -1,4 +1,6 @@
 # Cloud Native Buildpacks Specification v3
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbuildpacks%2Fspec.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbuildpacks%2Fspec?ref=badge_shield)
+
 
 This specification defines interactions between a platform, a lifecycle, a number of buildpacks, and an application
 1. For the purpose of transforming that application into an OCI image and
@@ -53,3 +55,7 @@ These documents currently specify:
 - Buildpack API: `0.12`
 - Distribution API: `0.3`
 - Platform API: `0.15`
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbuildpacks%2Fspec.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbuildpacks%2Fspec?ref=badge_large)
